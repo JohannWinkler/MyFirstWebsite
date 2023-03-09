@@ -1,0 +1,4 @@
+Vorname;Nachname;Geburtsdatum;Email;Passwort;Strasse;Wohnort;PLZ;Bundesland;Telefon;
+"Spacecaptain";"MC Supergeil";"1337-05-12";"spacecommander@supergeil.mc";"supersicher123";"Geile Spacestrasse 42";"Supergeil";"1337";"Salzburg";"+4313374269";
+"Hashed";"Passwortuser";"52222-05-11";"hashed@password.hp";"2a3c7b190867416a117af5124b28c0ee71b23e57701c8fba3e50516a4a94f264";"Hashedstreet 12";"Peppercity";"1337";"Salzburg";"+43456456456";
+"Cathew";"Meowning";"1337-11-11";"info@cathew.meow";"a5aa3b61df0700d18a13f47f973bfe02fd7dde9475e652b132527f3fa9b1e011";"Meowning 50";"Nyanpasu";"1337";"Salzburg";"+43456456456";

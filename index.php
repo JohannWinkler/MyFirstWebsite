@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title></title>
+  <title>Woods Sooper Dooper Shop</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -23,19 +23,26 @@
 </head>
 
 <body>
+<div class="headerDiv">
+  <header>
+    <h1 class="websiteHeader">Willkommen zu Woods Sooper Dooper Shop!</h1>
+  </header>
+</div>
 
-  <!-- Add your site or application content here -->
-  <p>Hello world! This is HTML5 Boilerplate.</p>
-  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
-  <script src="js/plugins.js"></script>
-  <script src="js/main.js"></script>
+<div class="nav">
+  <a href="index.php">Home</a>
+  <a href="php/frontend/setup.php">Login</a>
+  <a href="#">Kontakt</a>
+  <a href="#">Über uns</a>
+</div>
 
-  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
-  <script>
-    window.ga = function () { ga.q.push(arguments) }; ga.q = []; ga.l = +new Date;
-    ga('create', 'UA-XXXXX-Y', 'auto'); ga('set', 'anonymizeIp', true); ga('set', 'transport', 'beacon'); ga('send', 'pageview')
-  </script>
-  <script src="https://www.google-analytics.com/analytics.js" async></script>
+<h1>Willkommen!</h1>
+<p>Hier gibts Spiel Spaß und Spannung in Volt!</p>
+<div class="blankSpace"></div>
+
+<!-- Add your site or application content here -->
+<script src="js/vendor/modernizr-3.11.2.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
 </body>
-
 </html>

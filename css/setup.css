@@ -39,11 +39,39 @@ html {
   transition: all 0.2s ease-in-out;
 }
 
-h1 {
-  text-align: center;
+.formDiv {
+  justify-content: center;
+  display: flex;
 }
 
-p {
-  font-size: 20px;
-  text-align: center;
+label {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  text-align: right;
+  width: 400px;
+  line-height: 26px;
+  margin-bottom: 10px;
+}
+
+input {
+  height: 20px;
+  flex: 0 0 200px;
+  margin-left: 10px;
+}
+
+.selectCountry {
+  width: 13em;
+}
+
+.birthday {
+  width: 17.7em;
+}
+
+.fileSelect {
+  width: 5em;
+}
+
+.blankSpace {
+  min-height: 10em;
 }
